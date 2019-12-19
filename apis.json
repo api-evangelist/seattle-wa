@@ -1,0 +1,90 @@
+{
+    "name": "Seattle, WA",
+    "description": "Official city government site. Citizen, business, and visitor information sections, plus city government information.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/757-seattle,-wa.jpg",
+    "tags": [
+        "city government",
+        "data",
+        "have api",
+        "seattle"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/seattle-wa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Seattle, WA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/757-seattle,-wa.jpg",
+            "humanURL": "https:\/\/data.seattle.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/seattle-wa-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/city-of-seattle"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/city-of-seattle"
+        },
+        {
+            "type": "Email",
+            "url": "broadband.map@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "kristen.glundberg-prossor@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "megan.erb@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "jeremy.doane@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "DoITreception@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "vicky.yuki@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "Privacy@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "user@seattle.gov"
+        },
+        {
+            "type": "Email",
+            "url": "user@startupseattle.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CityofSeattle"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/data.seattle.gov\/"
+        }
+    ]
+}
